@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240526-1133-Experimental"
+	Name="Abdullahs-Surface"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="Abdullahs-Surface"
+	OSRelease="5.15.146.1-microsoft-standard-WSL2"
+	OSVersion="#1 SMP Thu Jan 11 04:09:03 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="126"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="4096"
+	TotalPhysicalMemory="15792"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1497.6"
+	>
+	<Testing>
+		<StartDateTime>May 26 12:33 WAT</StartDateTime>
+		<StartTestTime>1716723229</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 26 12:33 WAT</EndDateTime>
+		<EndTestTime>1716723229</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

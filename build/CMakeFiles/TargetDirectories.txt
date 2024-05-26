@@ -1,0 +1,9 @@
+/home/admin10/ros_ws/src/deliverybot_three/build/CMakeFiles/install/strip.dir
+/home/admin10/ros_ws/src/deliverybot_three/build/CMakeFiles/install/local.dir
+/home/admin10/ros_ws/src/deliverybot_three/build/CMakeFiles/install.dir
+/home/admin10/ros_ws/src/deliverybot_three/build/CMakeFiles/list_install_components.dir
+/home/admin10/ros_ws/src/deliverybot_three/build/CMakeFiles/rebuild_cache.dir
+/home/admin10/ros_ws/src/deliverybot_three/build/CMakeFiles/edit_cache.dir
+/home/admin10/ros_ws/src/deliverybot_three/build/CMakeFiles/test.dir
+/home/admin10/ros_ws/src/deliverybot_three/build/CMakeFiles/deliverybot_three_uninstall.dir
+/home/admin10/ros_ws/src/deliverybot_three/build/CMakeFiles/uninstall.dir
